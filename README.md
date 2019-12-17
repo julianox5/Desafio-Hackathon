@@ -1,2 +1,2 @@
-# desafio-Hackathon
-Gerador Anagramas
+# Desafio Para Particpar do Hackathon de Carreiras TI
+Gerador de Anagramas, 
